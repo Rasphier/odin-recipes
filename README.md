@@ -1,0 +1,1 @@
+The current project consists of creating a main index page which will have links to a few recipes. The website won't look very pretty but it is important to build your HTML chops; we will revisit this in the future to style it up with CSS.
